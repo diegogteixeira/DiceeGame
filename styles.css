@@ -1,0 +1,45 @@
+body {
+  background-color: hsl(160, 50%, 30%);
+  /* background-color: #393E46; */
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Lobster Two', cursive;
+  font-weight: 700;
+  font-size: 7rem;
+  color: #fff;
+  /* color: #4ECCA3; */
+  margin: 30px;
+  text-shadow: 3px 3px 5px #232931;
+}
+
+p {
+  font-family: 'Shadows Into Light', cursive;
+  font-weight: 400;
+  font-size: 2rem;
+  color: #fff;
+  /* color: #4ECCA3; */
+  text-shadow: 3px 3px 5px #232931;
+}
+
+img {
+  width: 80%;
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.playerAndDice {
+  display: inline-block;
+}
+
+footer {
+  font-family: 'Shadows Into Light', cursive;
+  color: #EEEEEE;
+  margin-top: 5%;
+  text-align: center;
+}
